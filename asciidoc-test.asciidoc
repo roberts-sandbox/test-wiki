@@ -1,0 +1,11 @@
+# Bold
+
+*boldText*
+
+# Mono
+
++monoText+
+
+# Italics
+
+_monoText_
